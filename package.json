@@ -3,9 +3,6 @@
   "version": "1.0.1",
   "description": "MD Analytics",
   "author": "hsnaydin82",
-  "dependencies": {
-    "decentraland-builder-scripts": "latest"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/hsnaydin82/md-analytics.git"
